@@ -12,7 +12,6 @@
 
 </div> <br/>
 
-Apaixonado em aprender. <br/>
 
 ### "The giant looks in the mirror and sees nothing" -Donda West
 
