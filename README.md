@@ -16,5 +16,3 @@ Apaixonado em aprender. <br/>
 
 ### "The giant looks in the mirror and sees nothing" -Donda West
 
-
-![snake gif](https://github.com/DanielCosta12/DanielCosta12/blob/output/github-contribution-grid-snake.svg)
