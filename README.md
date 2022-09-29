@@ -1,6 +1,5 @@
 # Hey! I'm Daniel Costa 👋
-### Talk to me👨‍💻✉: <br>
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldossantosdacosta@gmail.com)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521968318309)
+
 
 <a href="https://github.com/danielcosta12">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielCosta12&show_icons=true&theme=dracula" />
@@ -23,3 +22,5 @@
 
 ### "The giant looks in the mirror and sees nothing" -Donda West
 
+### Talk to me👨‍💻✉: <br>
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldossantosdacosta@gmail.com)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521968318309)
