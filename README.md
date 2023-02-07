@@ -1,13 +1,8 @@
 ## Hey! I'm Daniel Costa 👋
 
+![Daniel Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCosta12&&theme=vue-dark&show_icons=true)
 
-<a href="https://github.com/danielcosta12">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielCosta12&show_icons=true&theme=dracula" />
-</a>
-
-<a href="https://github.com/danielcosta12">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCosta12&layout=compact&langs_count=7&theme=dracula" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCosta12&theme=vue-dark)](https://github.com/DanielCosta12/github-readme-stats)
 
 - 🧑🏻‍💻: I'm a Junior Web Developer
 
